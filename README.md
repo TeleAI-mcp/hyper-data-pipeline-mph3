@@ -1,2 +1,3 @@
-# hyper-data-pipeline-mph3
-A data processing pipeline for modern development workflows
+# Hyper Data Pipeline Mph3
+
+A data processing pipeline for modern development workflows.
